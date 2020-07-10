@@ -13,4 +13,14 @@ Python program to visualize the results from the Deeplab model (trained on **ADE
 * Change the name of the path to the model (model_path) and the image (img_path) you want to test.
 * Run the program.
 
+## Example
+
+For an example on how to visualize the inference of DeepLab model (ADE20K) run **inferenceDeeplabADE20K.py** script.
+
+```
+git clone https://github.com/ibaiGorordo/Deeplab-ADE20K-Inference.git
+python inferenceDeeplabADE20K.py
+```
+
+![Deeplab ADE20K inference example](https://github.com/ibaiGorordo/Deeplab-ADE20K-Inference/blob/master/output.png)
 
